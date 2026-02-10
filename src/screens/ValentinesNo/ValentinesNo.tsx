@@ -1,6 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import { Button } from "../../components/ui/button";
 import { Card, CardContent } from "../../components/ui/card";
+import ace from "../../assets/ace.png";
 
 export const ValentinesNo = (): JSX.Element => {
   const navigate = useNavigate();
@@ -25,7 +26,7 @@ export const ValentinesNo = (): JSX.Element => {
             <img
               className="w-full h-full object-contain"
               alt="Confused dog"
-              src="src/assets/Ace-Error.png"
+              src={ace}
             />
           </div>
 

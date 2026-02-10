@@ -3,16 +3,15 @@ import { ChevronLeftIcon, ChevronRightIcon } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { Button } from "../../components/ui/button";
 import { Card, CardContent } from "../../components/ui/card";
+import Pic1 from "../../assets/Pic1.png";
+import Pic2 from "../../assets/Pic2.png";
+import Pic3 from "../../assets/Pic3.png";
+import Pic4 from "../../assets/Pic4.png";
+import Pic5 from "../../assets/Pic5.png";
+import Pic6 from "../../assets/Pic6.png";
+import Pic7 from "../../assets/Pic7.png";
 
-const photos = [
-  "src/assets/Pic1.png",
-  "src/assets/Pic2.png",
-  "src/assets/Pic3.png",
-  "src/assets/Pic4.png",
-  "src/assets/Pic5.png",
-  "src/assets/Pic6.png",
-  "src/assets/Pic7.png",
-];
+const photos = [Pic1, Pic2, Pic3, Pic4, Pic5, Pic6, Pic7];
 
 export const ValentinesYes = (): JSX.Element => {
   const [currentPhotoIndex, setCurrentPhotoIndex] = useState(0);

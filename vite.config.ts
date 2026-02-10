@@ -11,8 +11,4 @@ export default defineConfig({
       plugins: [tailwind()],
     },
   },
-    build: {
-    outDir: "docs",
-    emptyOutDir: true,
-  },
 });
