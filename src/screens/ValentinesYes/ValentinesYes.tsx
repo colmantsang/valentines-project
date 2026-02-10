@@ -7,9 +7,11 @@ import { Card, CardContent } from "../../components/ui/card";
 const photos = [
   "src/assets/Pic1.png",
   "src/assets/Pic2.png",
-  "https://images.unsplash.com/photo-1545912452-6b01b61e5665?w=600&h=600&fit=crop",
-  "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=600&fit=crop",
-  "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=600&fit=crop",
+  "src/assets/Pic3.png",
+  "src/assets/Pic4.png",
+  "src/assets/Pic5.png",
+  "src/assets/Pic6.png",
+  "src/assets/Pic7.png",
 ];
 
 export const ValentinesYes = (): JSX.Element => {
