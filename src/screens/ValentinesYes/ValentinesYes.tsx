@@ -5,8 +5,8 @@ import { Button } from "../../components/ui/button";
 import { Card, CardContent } from "../../components/ui/card";
 
 const photos = [
-  "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=600&fit=crop",
-  "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=600&h=600&fit=crop",
+  "src/assets/Pic1.png",
+  "src/assets/Pic2.png",
   "https://images.unsplash.com/photo-1545912452-6b01b61e5665?w=600&h=600&fit=crop",
   "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=600&fit=crop",
   "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=600&fit=crop",
