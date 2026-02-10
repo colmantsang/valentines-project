@@ -41,7 +41,7 @@ export const ValentinesYes = (): JSX.Element => {
             I mean, I knew you&apos;d say yes!!
           </p>
 
-          <div className="relative w-[290px] h-[360px] my-8">
+          <div className="relative w-[264px] h-[264px] my-2">
             <img
               className="w-full h-full object-contain"
               alt="Couple photo"
