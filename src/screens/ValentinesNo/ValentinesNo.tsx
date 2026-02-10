@@ -25,7 +25,7 @@ export const ValentinesNo = (): JSX.Element => {
             <img
               className="w-full h-full object-contain"
               alt="Confused dog"
-              src="https://images.unsplash.com/photo-1633722715463-d30628519a90?w=400&h=400&fit=crop"
+              src="src/assets/Ace-Error.png"
             />
           </div>
 
