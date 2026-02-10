@@ -41,13 +41,13 @@ export const ValentinesYes = (): JSX.Element => {
           </p>
 
           <div className="relative w-[248px] h-[302px] my-8">
-            <div className="absolute inset-0 bg-white rotate-[-16.22deg] shadow-[0px_0px_10.45px_#0000001a] flex items-center justify-center p-4">
+            
               <img
                 className="w-full h-full object-cover"
                 alt="Couple photo"
                 src={photos[currentPhotoIndex]}
               />
-            </div>
+          
           </div>
 
           <p className="[font-family:'Gochi_Hand',Helvetica] font-normal text-black text-[32px] text-center tracking-[0] leading-[normal] max-w-[329px]">
