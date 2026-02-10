@@ -21,7 +21,7 @@ export const ValentinesNo = (): JSX.Element => {
             We've seem to run into an error.
           </p>
 
-          <div className="w-[200px] h-[220px] flex items-center justify-center my-4">
+          <div className="w-[220px] h-[260px] my-4">
             <img
               className="w-full h-full object-contain"
               alt="Confused dog"
